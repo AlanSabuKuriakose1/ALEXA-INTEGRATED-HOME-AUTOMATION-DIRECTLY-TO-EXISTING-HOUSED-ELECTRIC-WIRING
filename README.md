@@ -14,7 +14,7 @@ HARDWARE
 5) Power supply module 5v.
 6) Breadboard.
 7) Case to enclose the hardware.
-8) Elctric wire (1mm).
+8) Electric wire (1mm).
 9) 2-Way DPST switches.
 
 SERVER USED : Sinric
