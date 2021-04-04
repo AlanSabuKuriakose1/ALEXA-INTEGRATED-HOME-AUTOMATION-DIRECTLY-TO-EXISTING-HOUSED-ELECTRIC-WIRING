@@ -1,4 +1,4 @@
-# ALEXA-INTEGRATED-HOME-AUTOMATION
+# ALEXA-INTEGRATED-HOME-AUTOMATION DIRECTLY TO EXISTING HOUSED WIRING
 Low cost automation achieving control of five gadgets.
 
 Try to make something activated using voice controlled than physical actions..
