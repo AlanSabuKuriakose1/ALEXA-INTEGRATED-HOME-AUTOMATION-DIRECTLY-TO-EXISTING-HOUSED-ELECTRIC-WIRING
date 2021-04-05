@@ -12,8 +12,8 @@ ESP8266WiFiMulti WiFiMulti;
 WebSocketsClient webSocket;
 WiFiClient client;
 
-int device_1 = 14;
-int device_2 = 12;
+int device_1 = 14;  // The pins in esp8266 cab be googles as ( GPIO pins Esp8266 ) then connect connections to pins with respective GPIO pins
+int device_2 = 12;  //  ie; Here device_1 =14 WHich means GPIO 14 in Esp8266 board is D5 ( these data can be googled as mentioned above).
 int device_3 = 5;
 int device_4 = 0;
 
