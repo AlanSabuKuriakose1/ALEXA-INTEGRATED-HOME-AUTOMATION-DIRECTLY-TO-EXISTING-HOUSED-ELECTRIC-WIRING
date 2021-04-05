@@ -1,5 +1,5 @@
 # ALEXA-INTEGRATED-HOME-AUTOMATION DIRECTLY TO EXISTING HOUSED WIRING
-Low cost automation achieving control of five gadgets.
+Low cost automation achieving control of four gadgets.
 
 Try to make something activated using voice controlled than physical actions..
 Just tried to make my room controlled by the AI Assistant Amazon Echo Dot 3rd Gen with Esp8266.
